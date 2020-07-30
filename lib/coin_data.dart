@@ -10,7 +10,7 @@ const List<String> currenciesList = [
   'ILS',
   'INR',
   'JPY',
-  'MXN',
+  'MXN', 
   'NOK',
   'NZD',
   'PLN',
