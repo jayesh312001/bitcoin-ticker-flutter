@@ -36,6 +36,3 @@ class _AndroidPickerState extends State<AndroidPicker> {
     return getDropdownButton();
   }
 }
-
-//
-//
